@@ -1,13 +1,13 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Y!an's Life
+description: 一个伪文艺愤青的自留地
+meta_description: "Y!an's Life"
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://life.yian.me'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator

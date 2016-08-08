@@ -2,7 +2,7 @@ name: Y!an's Life
 description: 一个伪文艺愤青的自留地
 meta_description: "Y!an's Life"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
